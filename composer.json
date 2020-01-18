@@ -5,6 +5,11 @@
     "require": {
         "ext-mcrypt": "^7.0"
     },
+    "autoload": {
+        "psr-4": {
+            "Drupalkid\\": "app/Drupalkid"
+        }
+    },
     "authors": [
         {
             "name": "paritoshik.paul",
