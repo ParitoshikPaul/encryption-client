@@ -1,0 +1,19 @@
+{
+    "name": "drupalkid/encryptionclient",
+    "description": "Encryption Client demonstrating Provider and Factory Design Patterns, PS4 autoloading, PSR2 Code style, Unit test cases,",
+    "type": "project",
+    "require": {
+        "ext-mcrypt": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Drupalkid\\": "app/Drupalkid"
+        }
+    },
+    "authors": [
+        {
+            "name": "paritoshik.paul",
+            "email": "pparitoshik@gmail.com"
+        }
+    ]
+}
