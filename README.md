@@ -38,9 +38,9 @@ Encryption Client demonstrating Provider and Factory Design Patterns, PS4 autolo
 
 # How to Run this project !
 
-### Install php
-### Install composer
-### Run `composer install`
-### php -S localhost:8000
+- Install php
+- Install composer
+- Run `composer install`
+- php -S localhost:8000
 
 
