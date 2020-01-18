@@ -8,6 +8,10 @@ This PSR describes a specification for autoloading classes from file paths. It i
 
 `\<NamespaceName>(\<SubNamespaceNames>)*\<ClassName>`
 
+IF you make any changes to the structure use this command to reflect the changes:
+
+`composer dump-autoload -o`
+
 ## PSR 2 Codeing Style
 
 Code MUST follow a “coding style guide” PSR [PSR-1].
